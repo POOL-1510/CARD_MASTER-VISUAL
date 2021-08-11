@@ -1,0 +1,72 @@
+html {
+    background-image: url("img/fondo3.jpeg");
+    
+}
+
+body {
+    color: #000;
+}
+
+div .inicio {
+    width: 100%;
+    height: 50px;
+}
+
+.logo-master {
+    width: 200px;
+    height: 170px;
+    border-radius: 20%;
+    display: block;
+    margin: auto;
+}
+a {
+    text-decoration: none;
+    color: #000;
+    display: inline;
+}
+
+i {
+    margin: 10px;
+    padding-left: 25px;
+    font-size: 40px;
+}
+
+.contenido {
+    margin: auto;
+    margin-top: 0;
+    width: 100%;
+    height: 60px;
+}
+
+.facebook {
+    margin: 5px;
+    padding-left: 25px;
+    width: 50px;
+    height: 50px;
+}
+
+.whatsapp {
+    margin: 5px;
+    padding-left: 25px;
+    width: 45px;
+    height: 45px;
+}
+
+.correo {
+    margin: 5px;
+    padding-left: 25px;
+    width: 50px;
+    height: 50px;
+}
+
+.ubi {
+    margin: 5px;
+    padding-left: 20px;
+    width: 50px;
+    height: 50px;
+}
+
+.nombre {
+    text-align: center;
+    color: #fff;
+}
